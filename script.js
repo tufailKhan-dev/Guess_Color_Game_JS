@@ -30,7 +30,7 @@ const validresult = (el) => {
         },5000);
     }
     else{
-        addtext.innerText = "Wrong guess";
+        addtext.innerText = "Wrong guess-- u have more chance";
     }
 
 }
